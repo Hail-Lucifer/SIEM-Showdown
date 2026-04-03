@@ -1,10 +1,25 @@
-# Comparative Analysis of SIEM Solutions
+<div align="center">
+
+# 📊 Comparative Analysis of SIEM Solutions
+
 ## Splunk Enterprise · ELK Stack · Graylog
+
+![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![SIEM](https://img.shields.io/badge/SIEM-Comparative%20Analysis-blue?style=for-the-badge&logo=elasticsearch)
+![Splunk](https://img.shields.io/badge/Splunk-Enterprise-00ADD8?style=for-the-badge&logo=splunk)
+![ELK](https://img.shields.io/badge/ELK-Stack-005571?style=for-the-badge&logo=elastic)
+![Graylog](https://img.shields.io/badge/Graylog-Open%20Source-FF3633?style=for-the-badge&logo=graylog)
+
+![Security](https://img.shields.io/badge/Security-SOC%20Operations-purple?style=flat-square&logo=security)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-Case%20%23147-orange?style=flat-square)
+![Cyber Kill Chain](https://img.shields.io/badge/Cyber%20Kill%20Chain-Mapped-red?style=flat-square)
+![TheHive](https://img.shields.io/badge/TheHive-Ticketing%20Integrated-yellow?style=flat-square)
 
 **Prepared by:** Yuri Montano  
 **Date:** March 2026
 
----
+</div>
+
 
 ## Table of Contents
 
